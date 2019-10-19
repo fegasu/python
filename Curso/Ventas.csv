@@ -1,0 +1,12 @@
+;Vendedor;Venta;Descuento;Comision;Horario
+0;María;3000;0.1;0.01;Nocturno
+1;Juana;4000;0.2;0.02;Nocturno
+2;Maria;5000;0.5;0.01;Nocturno
+3;Jose;2000;0.6;0.04;Nocturno
+4;Maria;6000;0.8;0.01;Nocturno
+5;Juana;7000;;0.02;Nocturno
+6;Maria;10000;0.3;0.03;Diurno
+7;Jose;7000;0.2;0.0;Diurno
+8;Maria;3000;0.1;0.05;Diurno
+9;Juana;6000;0.1;0.01;Diurno
+10;Jose;5000;0.2;0.01;Nocturno
