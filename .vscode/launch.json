@@ -1,0 +1,13 @@
+{
+    "instantMongo": {
+        "connections": [
+            {
+                "name": "Local",
+                "uri": "localhost:27017"
+            }
+        ]
+    },
+    "configurations": [
+    
+    ]
+}
